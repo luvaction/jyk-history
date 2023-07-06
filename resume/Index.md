@@ -21,7 +21,7 @@
 
 ## `핵심역량`
 
-- 문제 해결 능력 (Trouble Shooting) : 운영중이던 서비스의 문제점을 파악하고 수정하여 응답률을 70% 개선.ㄴ 에러, 버그 발생시 신속한 문제파악
+- 문제 해결 능력 (Trouble Shooting) : 운영중이던 서비스의 문제점을 파악하고 수정하여 응답률을 70% 개선. 에러, 버그 발생시 신속한 문제파악으로 적합한 문제 해결 방식 선택
 - 의사소통 능력 : Redmine을 사용하여 팀원간의 Issue 단위 Peer Review를 진행, 적극적인 피드백 제공
 - Linux 환경에서의 작업관리 : Linux 환경에서의 작업 스케줄링, SSL 인증서 발급 및 연장 경험, Shell Script를 이용한 자동화 작업 구현 경험
 - Cloud Platform 활용 : NCP, KT Cloud, AWS EC2 등 다양한 Cloud Platform을 이용하여 서비스 배포 및 유지보수 경험
